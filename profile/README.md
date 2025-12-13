@@ -137,10 +137,3 @@ Coming soon...
 
 
 *Before life, the endless fight.*
-
-
-
-
-## Contact
-
-For inquiries, please open an issue or contact the maintainers.
