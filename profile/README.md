@@ -9,7 +9,7 @@
 
 Sarkome is a **Deeptech** single-asset entity (SAE) dedicated to identifying, validating, and licensing a selective protein degrader for ASPS. Our primary objective is to develop **SAR-001**, a selective PROTAC degrader targeting the **ASPSCR1-TFE3** fusion protein.
 
-Born from a heartfelt promise to honor a late brother who fought this disease, we utilize an agentic AI core coupled with cloud-based partners to execute drug discovery efficiently. **Fundamentally, we are engineering a Multi-Agent System (the technology) to create a Digital Oncologist (the product).**
+Born from a heartfelt promise to honor a late brother who fought this disease, we utilize an agentic AI core coupled with cloud-based partners to execute drug discovery efficiently. **Fundamentally, we are engineering a Multi-Agent System to create a Digital Oncologist.**
 
 ---
 
