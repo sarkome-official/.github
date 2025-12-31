@@ -1,4 +1,4 @@
-# Technical README: Multi-Modal Biomedical Agent with PrimeKG
+Multi-Modal Biomedical Agent with PrimeKG
 
 ## Mission
 
@@ -20,7 +20,7 @@ Intelligent agent system based on LangGraph that integrates the PrimeKG (Precisi
 | Knowledge Graph | NetworkX + PrimeKG | 17,080 diseases, 4M+ biomedical relationships |
 | Protein Structures | AlphaFold API | 3D structural predictions |
 | Web Search | Google Search API | Fallback for unstructured information |
-| LLM | Claude Sonnet 4 / Gemini 3.0 | Reasoning and synthesis |
+| LLM | Gemini 3.0 | Reasoning and synthesis |
 
 ---
 
@@ -176,6 +176,9 @@ Combines graph data, 3D structures, and clinical text into a coherent response.
 - Slow path: KG + AlphaFold + Web
 
 ---
+
+![Agent](https://raw.githubusercontent.com/sarkome-official/.github/main/profile/agent.png)
+
 
 ## Key Features
 
